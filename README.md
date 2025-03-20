@@ -29,7 +29,7 @@
 
 ## 📊 GitHub Stats:
 <!---[![](https://github-readme-stats.vercel.app/api?username=recep-demir&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>](url) -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=recep-demir&theme=dark" alt="recep-demir" /></p>
+
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=recep-demir&theme=dark)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=recep-demir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
