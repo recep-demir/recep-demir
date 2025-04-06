@@ -96,8 +96,6 @@
  -->
  
 
-![Contribute](https://github-readme-activity-graph.vercel.app/graph?username=recep-demir&theme=dark&hide_border=true&bg_color=0d1117&line=ffffff&point=5c1666&radius=22&from=1&height=300&custom_title=Recep_Demir_contributions)
-
 <table>
   <tr>
     <td width="50%" align="center">
