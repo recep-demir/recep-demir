@@ -99,11 +99,11 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=recep-demir&theme=dark&show_icons=true&count_private=true&text_color=ffffff&icon_color=ffffff" width="90%">
-      <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app/?user=recep-demir&theme=dark&ring=ffffff&fire=ffffff&sideNums=ffffff&sideLabels=ffffff" width="90%">
+      <img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=recep-demir&theme=dark&show_icons=true&count_private=true&text_color=f1c40f&icon_color=f1c40f" width="90%">
+      <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app/?user=recep-demir&theme=dark&ring=f1c40f&fire=f1c40f&sideNums=f1c40f&sideLabels=f1c40f" width="90%">
     </td>
     <td width="50%" align="center">
-      <img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=recep-demir&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=4&text_color=ffffff&icon_color=ffffff" width="90%">
+      <img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=recep-demir&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=4&text_color=f1c40f&icon_color=f1c40f" width="90%">
     </td>
   </tr>
 </table>
