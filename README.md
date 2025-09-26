@@ -1,6 +1,6 @@
 <h1 align="center">Hi There, I'm Recep</h1>
 <h3 align="center">As a passionate developer, I bring my enthusiasm for software development and problem-solving to life through my projects.</h3>
-<h4>🌱 Currently working on Frontend Development.<br> 🌍 Experienced in collaborating with people from diverse cultures.<br> 📚 Learning Node.js, Express.</h3>
+<h4>🌍 Experienced in collaborating with people from diverse cultures.<br> 📚 Learning Node.js, Express.</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/recep-demir) 
