@@ -55,11 +55,12 @@
   <img src="https://img.shields.io/badge/styled--components-%23DB7093.svg?style=flat&logo=styled-components&logoColor=white" />
 </p>
 
+<!--
 <h3>Testing</h3>
 <p>
   <img src="https://img.shields.io/badge/cypress-%2317202C.svg?style=flat&logo=cypress&logoColor=white" />
 </p>
-
+-->
 <h3>Database</h3>
 <p>
   <img src="https://img.shields.io/badge/sql-%2300f.svg?style=flat&logo=database&logoColor=white" />
