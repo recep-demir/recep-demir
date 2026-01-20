@@ -6,8 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/recep-demir) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:demir.rp@gmail.com) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@demir.rp) 
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/recepdemir)
-
 ---
 ## 💻 Tech Stack:
 
@@ -23,13 +21,7 @@
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/redux-%23764ABC.svg?style=flat&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/axios-%235A29E4.svg?style=flat&logo=axios&logoColor=white" />
-  <img src="https://img.shields.io/badge/yup-%23000000.svg?style=flat&logo=yup&logoColor=white" />
-  <img src="https://img.shields.io/badge/formik-%234B32C3.svg?style=flat&logo=formik&logoColor=white" />
   <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white" />
 </p>
 
@@ -47,12 +39,9 @@
 
 <h3>Styling</h3>
 <p>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/sass-%23CC6699.svg?style=flat&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/materialui-%230081CB.svg?style=flat&logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/styled--components-%23DB7093.svg?style=flat&logo=styled-components&logoColor=white" />
 </p>
 
 <!--
@@ -65,9 +54,7 @@
 <p>
   <img src="https://img.shields.io/badge/sql-%2300f.svg?style=flat&logo=database&logoColor=white" />
   <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/sqlite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/nosql-%23FF6600.svg?style=flat&logo=nosql&logoColor=white" />
 </p>
 
 <h3>Tools</h3>
@@ -76,13 +63,8 @@
  <!-- <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/cli-%23000000.svg?style=flat&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-%23000000.svg?style=flat&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/yarn-%23000000.svg?style=flat&logo=yarn&logoColor=white" />
-  <img src="https://img.shields.io/badge/pnpm-%23000000.svg?style=flat&logo=pnpm&logoColor=white" />
+  
  <!-- <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" /> -->
 </p>
 
