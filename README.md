@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=flat&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white" alt="Groq" />
   <img src="https://img.shields.io/badge/ChromaDB-5A4EE5?style=flat&logo=google-cloud&logoColor=white" alt="ChromaDB" />
+ <img src="https://img.shields.io/badge/RAG-orange?style=flat&logo=semantic-web&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Vector-blueviolet?style=flat&logo=databricks&logoColor=white" alt="Vector DB" />
   <img src="https://img.shields.io/badge/Automation-Scripts-%23000000.svg?style=flat&logo=gnu-bash&logoColor=white" />
 </p>
 
