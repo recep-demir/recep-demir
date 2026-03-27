@@ -19,7 +19,6 @@
 <h3>AI & Automation </h3>
 <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=flat&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=flat&logo=chainlink&logoColor=blue" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=flat&logo=openai&logoColor=white" alt="OpenAI" />
