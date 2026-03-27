@@ -12,11 +12,19 @@
  
 ## Tech Stack:
 
+
+<!-- AI & Automation Section -->
+### AI & Automation Tools
+
 <h3>AI & Automation </h3>
 <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=flat&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=flat&logo=chainlink&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=flat&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white" alt="Groq" />
+  <img src="https://img.shields.io/badge/ChromaDB-5A4EE5?style=flat&logo=google-cloud&logoColor=white" alt="ChromaDB" />
   <img src="https://img.shields.io/badge/Automation-Scripts-%23000000.svg?style=flat&logo=gnu-bash&logoColor=white" />
 </p>
 
