@@ -14,7 +14,6 @@
 
 
 <!-- AI & Automation Section -->
-### AI & Automation Tools
 
 <h3>AI & Automation </h3>
 <p>
